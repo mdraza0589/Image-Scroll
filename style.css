@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 100vw;
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.box:nth-child(1){
+    background: url(image1.avif);
+    position: relative;
+}
+.box:nth-child(2){
+    background-image: url(image2.avif);
+}
+.box:nth-child(3){
+    background-image: url(image3.avif);
+}
+.box:nth-child(4){
+    background-image: url(image4.avif);
+}
+.box:nth-child(5){
+    background-image: url(image5.avif);
+}
+.box:nth-child(6){
+    background-image: url(image6.avif);
+}
+.box:nth-child(7){
+    background-image: url(image7.avif);
+}
+.box:nth-child(8){
+    background-image: url(image8.avif);
+}
+.box:nth-child(9){
+    background-image: url(image9.avif);
+}
+.box:nth-child(10){
+    background-image: url(image10.avif);
+}
